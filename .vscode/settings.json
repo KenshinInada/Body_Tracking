@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Body_Track.sln"
+    "dotnet.defaultSolution": "Body_Tracking.sln"
 }
